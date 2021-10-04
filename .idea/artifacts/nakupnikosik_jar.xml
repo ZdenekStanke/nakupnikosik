@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nakupnikosik:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nakupnikosik_jar</output-path>
+    <root id="archive" name="nakupnikosik.jar">
+      <element id="module-output" name="Main" />
+    </root>
+  </artifact>
+</component>
